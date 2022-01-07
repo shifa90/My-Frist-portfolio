@@ -1,0 +1,70 @@
+body{
+    font-family: 'Fira Sans', sans-serif;
+font-family: 'Poppins', sans-serif;
+margin: 10% 10% 10% 10%;
+}
+.h1{
+    font-size: 50px;
+   
+}
+.orange-color{
+    color: orange;
+
+}
+.flexible-container{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 10%;
+
+
+}
+.top-section img{
+     width: 50%;
+}
+.half-width img{
+    width: 40%;
+}
+
+
+
+.link-button{
+   text-decoration: none;
+   background-image: linear-gradient(orange, red);
+   padding: 10px 40px;
+   color: white;
+   font-weight: 700;
+   border-radius: 5px;
+   
+
+
+}
+.top-section{
+    height: 500px;
+    padding-bottom: 125px;
+}
+.My-mission-in-2022{
+           text-align:center;
+          
+}
+.mission-item{
+    margin-left: 5%;
+    margin-right: 5%;
+   
+
+}
+.mission-item img{
+    width: 70%;
+}
+footer p{
+    text-align: center;
+    
+    background-color: black;
+    font-family: initial;
+    font-style: italic;
+    color: white;
+}
+
+
+
